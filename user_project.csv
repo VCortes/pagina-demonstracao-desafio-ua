@@ -1,0 +1,10 @@
+id,tenant_id,institution_id,template_id,user_id,class_id,feedback,grade,is_evaluated,is_draft,created_by,updated_by,deleted_at,deleted_by,is_deleted,created_at,updated_at,evaluated_at,submitted_at,saved_at,title,external_user_class_id,status,progress,location,local_contact_name,local_contact_mobile,is_submission_closed,deadline_at
+217848,54,90,643243,3755001,6096,,,false,false,1763327,,,,false,2024-11-15 00:07:55.034 -0300,2024-11-15 00:07:55.034 -0300,,,,Adaptações ao treinamento aeróbico 1 ,603600278,submitted,100.00,,,,false,
+217849,54,90,455710,4284644,8565,,,false,false,2026227,,,,false,2024-11-15 14:21:40.942 -0300,2024-11-15 14:21:40.942 -0300,,,,Capitalismo e socialismo 1 ,568448636,submitted,100.00,,,,false,
+217850,54,90,327464,7864165,9936,,,false,false,3998733,,,,false,2024-11-15 15:28:22.383 -0300,2024-11-15 15:28:22.383 -0300,,,,Volumetria de neutralização e ácido-base 1,497155867,submitted,100.00,,,,false,
+217851,54,90,643243,9377438,5758,,,false,false,9910057,,,,false,2024-11-18 18:04:24.257 -0300,2024-11-18 18:04:24.257 -0300,,,,Adaptações ao treinamento aeróbico 2,296484527,submitted,100.00,,,,false,
+217852,54,90,643243,8554661,2322,,,false,false,7832348,,,,false,2024-11-18 18:05:04.150 -0300,2024-11-18 18:05:04.150 -0300,,,,Adaptações ao treinamento aeróbico 3,726645075,submitted,100.00,,,,false,
+217853,54,90,455710,9416072,9172,,,false,false,7211039,,,,false,2024-11-18 18:06:24.349 -0300,2024-11-18 18:06:24.349 -0300,,,,Capitalismo e socialismo 2,561927185,submitted,100.00,,,,false,
+217854,54,90,455710,4885066,9612,,,false,false,5025439,,,,false,2024-11-18 18:06:55.380 -0300,2024-11-18 18:06:55.460 -0300,,,,Capitalismo e socialismo 3,878525030,submitted,100.00,,,,false,
+217855,54,90,327464,5678109,5248,,,false,false,7395223,,,,false,2024-11-18 18:07:48.907 -0300,2024-11-18 18:07:48.907 -0300,,,,Volumetria de neutralização e ácido-base 2,235656526,submitted,100.00,,,,false,
+217856,54,90,327464,9027878,9383,,,false,false,8924346,,,,false,2024-11-18 18:08:08.565 -0300,2024-11-18 18:08:08.565 -0300,,,,Volumetria de neutralização e ácido-base 3,641724475,submitted,100.00,,,,false,
